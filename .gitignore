@@ -1,4 +1,3 @@
-secret
-py
+secrets.py
 __pycache__
 .DS_Store
